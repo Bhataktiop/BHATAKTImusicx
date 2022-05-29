@@ -66,4 +66,4 @@ Give us a star and fork our repo
   
 - Click Here 👇🏻 and Join Please
   
-  [![TMC EMPIRES](https://telegra.ph/file/13fba0e9d76c406ae9ce2.jpg)](https://t.me/TMC_EMPIRES)
+  [![BHATAKTI](https://telegra.ph/file/ffc06f183f2bad8a1c27e.jpg)(https://t.me/BHATAKTI_EMPIRE))]
