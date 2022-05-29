@@ -5,22 +5,7 @@
 
 ### Best Smart Voice Chat Music Robot For Telegram Groups ....
 
-# <p align="center"><a href="https://github.com/bhumiharsaurabh/katilmusicx"><img src="https://github-readme-stats.vercel.app/api/pin?username=bhumiharsaurabh&show_icons=true&theme=dracula&hide_border=true&repo=katilmusicx"></a></p>
-<p align="center">
 
-  <details>
-<summary><b>🔗 Session String</b></summary>
-<br>
-
-> You'll need a [API_ID](https://my.telegram.org/auth) & [API_HASH](https://my.telegram.org/auth) in order to generate pyrogram session string. 
-> Always remember to use good API combo else your account could be deleted.
-
-<h4> Generate Session via Telegram Bot: </h4>    
-<p><a href="https://t.me/TmcStringGenBot"><img src="https://img.shields.io/badge/Generate%20On%20Bot-blueviolet?style=for-the-badge&logo=Telegram" width="350""/></a></p>
-
-</details>
-
-  
   
 # Deployments
   
