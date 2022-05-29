@@ -66,4 +66,4 @@ Give us a star and fork our repo
   
 - Click Here 👇🏻 and Join Please
   
-  [![BHATAKTI](https://telegra.ph/file/ffc06f183f2bad8a1c27e.jpg)(https://t.me/BHATAKTI_EMPIRE))]
+  [![BHATAKTI](https://telegra.ph/file/ffc06f183f2bad8a1c27e.jpg)][(https://t.me/BHATAKTI_EMPIRE))]
